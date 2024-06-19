@@ -1,4 +1,4 @@
-import "./Frame1437252859.css";
+import "./Layout.css";
 import { VuesaxLinearSend2 } from "../VuesaxLinearSend2/VuesaxLinearSend2.jsx";
 import Results from '../Results/results.jsx';
 import { Login } from "../Login/login.jsx";
